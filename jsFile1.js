@@ -2,7 +2,7 @@ function abc()
 {
 	var ab = new Date();
 	var cd = ab.toLocaleDateString();
-	document.getElementById("btn1").innerHTML =cd + "(m-d-y)";
+	document.getElementById("btn1").innerHTML =cd;
 	var k = window.setInterval(def,1000);
 	
 }
