@@ -17,7 +17,3 @@ function def()
 }
 
 
-function markUp()
-{
-    document.getElementsByClassName("txt-area").css("fontWeight","bold");
-}
